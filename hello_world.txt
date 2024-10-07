@@ -3,5 +3,3 @@ hello world!!!
 my name is Kayode!
 
 I like F1 and watching Anime and creating various forms of media
-
-checking if I know what I'm doing to add code
